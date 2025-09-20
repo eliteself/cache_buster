@@ -60,4 +60,4 @@ with open('static_version.txt', 'w') as f:
 
 
 *powered by AI co-creation team*  
-*built with 🤍 by eliteself.tech*technologies of your success
+*built with 🤍 by eliteself.tech*  / technologies of your success
