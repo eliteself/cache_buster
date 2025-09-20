@@ -3,7 +3,8 @@
 I created this scriprs to clear cache 
 in web browsers when deploy updates of my FastApi websites, 
 so I do not need to clear browser cache 
-to see new css styles and without any CDN Solutions and Server-Side Solutions
+to see new css styles and without any CDN, server-side solutions and what I love more is 
+Zero external dependencies!!
 
 **Feature**          | **Your Implementation**   | **Quality** |
 |--------------------|---------------------------|-------------|
