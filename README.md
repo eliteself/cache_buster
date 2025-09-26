@@ -49,7 +49,7 @@ Zero external dependencies!!
 ```python
 # Add to GitHub Actions
 - name: Cache Bust
-  run: python tools/cache_buster.py
+  run: python cache_buster.py
 ```
 
 ### **2. Version Tracking**
